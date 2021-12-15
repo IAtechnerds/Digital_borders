@@ -95,16 +95,6 @@
  
 <h3>Data cleaning and manipulation</h3>
  
- <ol>
-<p align="justify">P<li>The following variables were cancelled from the original dataset: "Quarter", "Nationality", "Visa type group", "Visa type subgroup"</li></p>
-  
- <p align="justify">P<li>For matters of uniformity and comfort, the variables names were changes to: ['Year', 'Nationality', 'Region', 'Visa type', 'Applicant type', 'Case outcome', 'Decisions']</li></p>
-  
-<p align="justify">P<li>We only kept data regarding the case outcomes “Issued” and “Refused”. The original dataset contained values also for “Withdrawn” and “Lapsed” applications, which were not relevant to our analysis and that we thus were not considered. </li></p>
-  
- <p align="justify">P<li>We transformed the data type of the variables "Year" and “Decisions” into integers (they originally came as floats).</li></p>
- </ol>
- 
 <h2>Bibliography</h2>
  
 <p align="justify">Amoore, L., 2006. Biometric borders: Governing mobilities in the war on terror. Political Geography 25, 336–351. https://doi.org/10.1016/j.polgeo.2006.02.001</p>
