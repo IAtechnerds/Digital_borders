@@ -65,8 +65,6 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
 <img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png">
  
-<img width="612" alt="Github 3" src="https://user-images.githubusercontent.com/92430113/145984577-8e98cab0-7dc3-4bf3-ba32-8c0f79d6548a.png">
- 
 <img width="615" alt="Github 4" src="https://user-images.githubusercontent.com/92430113/145985143-0c7afc90-7133-4210-a4c6-147782c7164a.png">
 
 <img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
