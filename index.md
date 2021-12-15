@@ -93,14 +93,14 @@
  
 <h3>Visa types</h3>
  
- <ul>
+<h3>Data cleaning and manipulation</h3>
+ 
+  <ul>
   <li type="disc">The following variables were cancelled from the original dataset: "Quarter", "Nationality", "Visa type group", "Visa type subgroup"</li>
   <li type="disc">For matters of uniformity and comfort, the variables names were changes to: ['Year', 'Nationality', 'Region', 'Visa type', 'Applicant type', 'Case outcome', 'Decisions']</li>
   <li type="disc">We only kept data regarding the case outcomes “Issued” and “Refused”. The original dataset contained values also for “Withdrawn” and “Lapsed” applications, which were not relevant to our analysis and that we thus were not considered.</li>
   <li type="disc">We transformed the data type of the variables "Year" and “Decisions” into integers (they originally came as floats).</li>
   </ul>
- 
-<h3>Data cleaning and manipulation</h3>
  
 <h2>Bibliography</h2>
  
