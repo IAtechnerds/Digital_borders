@@ -45,7 +45,7 @@
  <h3>A. Analysis on the origin of the applicant (region and nationality)</h3>
  
  <p align="justify">Regarding the bias that was already recognized as such, the origin of the applicants (region and nationality), we find that the lowests percentages of visa issue rate come from countries in Africa, as shown in the graph below.</p>
- <img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png">
+<p align="center"> <img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png"></p>
  
  <p align="justify">From here on, our analysis focused on the clustering in <strong>two time spans</strong>. The first, <strong>2005-2014</strong> corresponds to the time before the alleged discriminatory algorithm existed and the second, <strong>2015-2020</strong> to when this algorithm was used. Comparison of these two times spans allows us to draw conclusions on whether the second system was indeed discriminatory or not. As it can be read in the graph below, we find that the region that saw the biggest change between the two periods is <strong>North Africa</strong>.</p>
 
