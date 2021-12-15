@@ -155,9 +155,9 @@
 
 <p align="justify">Murphy, E., Maguire, M., 2015. Speed, Time and Security: Anthropological Perspectives on Automated Border Control. Etnofoor 27, 157–177.</p>
 
-<p align="justify">Tuckett, A., 2015. Strategies of Navigation: Migrants’ Everyday Encounters with Italian Immigration Bureaucracy. The Cambridge Journal of Anthropology 33, 113–128. https://doi.org/10.3167/ca.2015.330109</p>
+<p align="justify">Tuckett, A., 2015. Strategies of Navigation: Migrants’ Everyday Encounters with Italian Immigration Bureaucracy. The Cambridge Journal of Anthropology 33, 113–128. <a href=https://doi.org/10.3167/ca.2015.330109>https://doi.org/10.3167/ca.2015.330109</a> </p>
 
-<p align="justify">Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times. https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018</p>
+<p align="justify">Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times. <a href=https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018>https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018</a> </p>
 
 <p align="justify">We won! Home Office to stop using racist visa algorithm. (2020). The Joint Council for the Welfare of Immigrants. https://www.jcwi.org.uk/News/we-won-home-office-to-stop-using-racist-visa-algorithm</p>
 
