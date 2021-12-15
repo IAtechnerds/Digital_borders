@@ -96,13 +96,13 @@
 <h3>Data cleaning and manipulation</h3>
  
   <ul>
-  <p align="justify"> <li type="disc">The following variables were cancelled from the original dataset: "Quarter", "Nationality", "Visa type group", "Visa type subgroup"</li> </p>
+  <li type="disc"> <p align="justify">The following variables were cancelled from the original dataset: "Quarter", "Nationality", "Visa type group", "Visa type subgroup" </p> </li> 
    
- <p align="justify"> <li type="disc">For matters of uniformity and comfort, the variables names were changes to: ['Year', 'Nationality', 'Region', 'Visa type', 'Applicant type', 'Case outcome', 'Decisions']</li> </p>
+<li type="disc">  <p align="justify"> For matters of uniformity and comfort, the variables names were changes to: ['Year', 'Nationality', 'Region', 'Visa type', 'Applicant type', 'Case outcome', 'Decisions'] </p> </li> 
    
-  <p align="justify"> <li type="disc">We only kept data regarding the case outcomes “Issued” and “Refused”. The original dataset contained values also for “Withdrawn” and “Lapsed” applications, which were not relevant to our analysis and that we thus were not considered.</li> </p>
+  <li type="disc"> <p align="justify"> We only kept data regarding the case outcomes “Issued” and “Refused”. The original dataset contained values also for “Withdrawn” and “Lapsed” applications, which were not relevant to our analysis and that we thus were not considered.</p> </li>
    
-  <p align="justify"> <li type="disc">We transformed the data type of the variables "Year" and “Decisions” into integers (they originally came as floats).</li> </p>
+ <li type="disc"> <p align="justify"> We transformed the data type of the variables "Year" and “Decisions” into integers (they originally came as floats). </p></li> 
   </ul>
  
 <h2>Bibliography</h2>
