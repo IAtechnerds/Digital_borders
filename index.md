@@ -94,7 +94,7 @@
 <h3>Visa types</h3>
  
  <ul>
-  <li type="disc"> <p align="justify"> <p align="justify"><strong>Visitors visas</strong>: Visitors are people who wish to stay in the UK for a temporary period of less than six months.</p> </li> 
+  <li type="disc"> <p align="justify"> <p align="justify"><strong>Visitors visas</strong>: visitors are people who wish to stay in the UK for a temporary period of less than six months.</p> </li> 
    
 <li type="disc"> <p align="justify">  <strong>Sponsored study visas</strong>: meant for students who have been offered a place on a course by a licensed student sponsored and wish therefore to study under this program in the UK.</p> </li> 
  
