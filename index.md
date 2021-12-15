@@ -31,7 +31,7 @@ Government institutions retain an opacity and unpredictability, which is exacerb
 
 
   
-<h2>Policy</h2>
+<h2>Policy development and algorithm's dployment</h2>
 
 <BODY> <p>Since 2015, the UK had filtered visa applications through an algorithm based on a traffic light system that assigned a red, amber or green risk level to each applicant. 
 In 2017, a tech-justice group named FoxGlove launched a joint investigation with the Joint Council for the Welfare of Immigrants into the functioning of this system, claiming that it discriminated against certain nationalities.
