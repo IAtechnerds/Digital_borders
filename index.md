@@ -4,7 +4,14 @@
 <h4>Group members</h4>
 <BODY> GENELLETI.G, FLAMANT.M, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
 
-
+<ol>
+ <li>Introduction</li>
+ <li>Literature review and approach</li>
+ <li>Policy development and algorithm's deployment</li>
+ <li>Methodology</li>
+ <li>Scope and conclusions</li>
+ <li>Bibliography</li>
+ </ol>
 
 <h2>Introduction</h2>
 
@@ -17,7 +24,7 @@ In the following we therefore specify the bias of the algorithm in question acco
 Against this qualitative, analytic background we will quantitatively evaluate the outcomes of visa applications to the UK, both before and after implementing the algorithm.</BODY>
 
 
-<h2>Literature Review and approach</h2>
+<h2>Literature review and approach</h2>
 
 <BODY><p>Migration policies generally are intended to retain the integrity of a national political body (Asad, 2003; Mavelli, 2013), defining migrants as either deserving of legal status or not, in accordance to how they prop up the nation (Bosworth, 2008). In a European (Asad, 2003; Mavelli, 2013) and UK (Capdevila and Callaghan, 2008) context, migrants are therefore often considered to be either dangerous Others against with the nation defines itself, or an economically exploitable resource (with the exception of refugees), 
 Thus, they are succumb to particularly harsh policies (Bove et al., 2021; Ceccorulli, 2019), which use migrants precarity for cheap labour, perpetuating global inequalities (de León, 2015; Garza, 2018; Mcc. Heyman, 1995). This occurs despite an interest in being meritocratic, rendering this approach crucial for understanding the broader ethics encoded in UK migration policy.</p>
@@ -28,9 +35,7 @@ Here, there is a great emphasis on how the presence of a ranking or predictive d
 <p>Algorithms already have a long history of being unsuccessfully deployed at borders, however in different formats (Amoore, 2006; Anderson, 2014; Murphy and Maguire, 2015). Here, there is a great emphasis on how the presence of a ranking or predictive device (which can be an algorithm) are discriminatory, easily evaded, and ultimately inaccurate. However the existence of a technologically securitized border still determines legality and shapes lives. This is not to say the deployment of algorithms in visa granting systems is inherently bad, indeed they are not the only black box present.
 Government institutions retain an opacity and unpredictability, which is exacerbated due  to their inherent status of power (Mitchell, 2007; Tuckett, 2015). This may be actually rendered more tangible through an algorithm. It is from this nuanced perspective of critique and appreciation for the complex situation at hand, that we seek to decode the bias of the UK visa granting algorithm in an attempt to offer adequate solutions.</p>
 
-
-
-  
+ 
 <h2>Policy development and algorithm's deployment</h2>
 
 <BODY> <p>Since 2015, the UK had filtered visa applications through an algorithm based on a traffic light system that assigned a red, amber or green risk level to each applicant. 
