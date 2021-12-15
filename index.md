@@ -3,7 +3,7 @@
 <h2> Final project - decoding biases in Artificial Intelligence - SciencesPo Paris 2021-2022</h2>
 
 <h3>Group members</h3>
-<BODY> FLAMANT.M, GENELLETI.G, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
+<BODY> FLAMANT.M, GENELETTI.G, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
 
  <h3>Table of content</h3>
  
