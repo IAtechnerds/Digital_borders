@@ -143,13 +143,13 @@
  
 <p align="justify">Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. <a href=https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/>https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/</a></p>
 
-<p align="justify">Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. <a href=https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1/>https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1</p> </p>
+<p align="justify">Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. <a href=https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1/>https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1</a> </p>
 
-<p align="justify">Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. https://doi.org/10.1177/0305829812463655</p>
+<p align="justify">Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. <a href=https://doi.org/10.1177/0305829812463655/>https://doi.org/10.1177/0305829812463655</a> </p>
 
-<p align="justify">Mcc. Heyman, J., 1995. Putting Power in the Anthropology of Bureaucracy: The Immigration and Naturalization Service at the Mexico-United States Border. Current Anthropology 36, 261–287. https://doi.org/10.1086/204354</p>
+<p align="justify">Mcc. Heyman, J., 1995. Putting Power in the Anthropology of Bureaucracy: The Immigration and Naturalization Service at the Mexico-United States Border. Current Anthropology 36, 261–287. <a href=https://doi.org/10.1086/204354/>https://doi.org/10.1086/204354</a></p>
 
-<p align="justify">McDonald, H. (2020, August 4). Home Office to scrap “racist algorithm” for UK visa applicants. The Guardian. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants</p>
+<p align="justify">McDonald, H. (2020, August 4). Home Office to scrap “racist algorithm” for UK visa applicants. The Guardian. <a href=https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants/>https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants</a></p>
 
 <p align="justify">Mitchell, T., 2007. Society, Economy, and the State Effect, in: Sharma, A., Gupta, A. (Eds.), The Anthropology of the State: A Reader. Blackwell Publishing Ltd., pp. 172–186.</p>
 
