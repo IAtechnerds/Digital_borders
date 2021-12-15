@@ -141,9 +141,9 @@
 
 <p align="justify">HM Government, 2020. The UK’s Points-Based Immigration System: Further Details.</p>
  
-<p Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. <a href=https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/>https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/</a> </p>
+<p align="justify">Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. <a href=https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/>https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/</a></p>
 
-<p align="justify">Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1</p>
+<p align="justify">Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. <a href=https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1/>https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1</p> </p>
 
 <p align="justify">Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. https://doi.org/10.1177/0305829812463655</p>
 
