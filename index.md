@@ -119,7 +119,6 @@
    <li type="disc"> <p align="justify">  <strong>EU Settlement Scheme family permit</strong>:  launched following the UK’s decision to leave the EU and has existed since March 30th 2019. It allows a dependent to join, or accompany, an EEA citizen who has been granted indefinite or limited leave under the EU Settlement Scheme. Data relating to this type of visa was included in the dataset but will not be analysed in our study because of the recency of the data.</p> </li> 
    
    <li type="disc">  <p align="justify"> <strong>Other settlement visas</strong>: refer to visas that can allow for indefinite leave to enter (on arrival) or indefinite leave to remain (after entry).</p> </li> 
-       
   </ul>
  
 <h3>Data cleaning and manipulation</h3>
@@ -189,5 +188,3 @@
 <p align="justify">Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times.https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018.</p>
 
 <p align="justify">We won! Home Office to stop using racist visa algorithm. (2020). The Joint Council for the Welfare of Immigrants. https://www.jcwi.org.uk/News/we-won-home-office-to-stop-using-racist-visa-algorithm.</p>
-
-
