@@ -74,23 +74,29 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
  <h4>1) Analysis of visa issue rata per rate</h4>
  
+ Here, our analysis shows that the percentage of visa issued lowers significantly from the data before and after the algorithm was introduced. This finding allows us to <strong>confirm the bias of the algorithm towards North African applicants</strong>. Such a bias must be read in light of the migrant crisis of 2015. Indeed, political and terrorist troubles in North Africa forced people to leave their home country (particularly Tunisia and Libya) and to go to Europe. As a result, the UK adopted a more protectionist visa issuance policy.
  
 <img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
  
  <h4>2) Analysis of visa issue rate per visa type</h4>
  
+This analysis shows that the visa types issuance rate that lower the most are the EEA family permit, the Family, the visitors, the high value and the other study. The <strong>EEA family permit</strong> allows non-EEA citizens to enter into the UK on the basis of their relationship with an EEA citizen. <strong>Family visas</strong> allow people to apply upon their family connection with an individual who is either a UK citizen or has just been granted a visa. <strong>Visitor visas</strong> allow successful applicants to stay in the UK for a temporary period of less than six months. The <strong>High Value visas</strong> are designed for highly skilled workers who (among other restrictive requirements) have an annual salary higher than £25,000 (which is the basic requirement for being considered under the Skilled Worker category).
  
 <img width="607" alt="github 6" src="https://user-images.githubusercontent.com/92430113/145985226-ff8e274c-476f-4bfb-ab1c-b9cd8f7f52ce.png">
  
  <h4>3) Analysis of visa issuance rate per applicant type</h4>
  
+In this part, we analysed the visa issuance rate per applicant type for North Africa, with the data still divided in the two time spans mentioned above. As a “dependent”, applicants are not claiming their own rights but will be considered as part of the application of the main applicant because of their relation. We observe that <strong>the category of dependents is the one that lowered the most</strong>. This does not allow us to draw absolute conclusions. We can make the assumption that, because dependents are very often children accompanying their parents, a decrease in the visa issuance rate for them demonstrates the UK’s intention to limit migration. 
 
 <img width="621" alt="Github 7" src="https://user-images.githubusercontent.com/92430113/145985240-65c2ad65-8bb5-4c5c-83a4-6cd92f5f64e6.png">
  
  <h3>B. Analysis on visa type (for all regions)</h3>
  
-
+In this second part, we analysed potential discrimination on the Visa Type, not applied to specific Regions or nationalities. 
+ 
 <img width="609" alt="Github 8" src="https://user-images.githubusercontent.com/92430113/145985389-51365722-78d5-488b-bf15-d4021e2a3f1a.png">
+ 
+As we did in our previous analysis, we have clustered our analysis of the visa types in two time spans: for the years 2005-2014 and 2015-2020. We observe that the percentages of the visa issuance rate for visa type that lowers the most are the <strong>EEA family permit and the other settlements</strong>. The latter refers to visas that can allow for indefinite leave to enter (on arrival) or indefinite leave to remain (after entry). These results, shown in the graph below, are quite telling in showing how the UK was willing to issue visas to migrants who would “prop up the nation'' (Bosworth, 2008). Indeed, the visa issuance rate for <strong>skilled workers, temporary workers</strong> (those granted to people with lower wages and more precarious, seasonal and therefore short-term jobs) <strong>and other study</strong> increased while these rates decreased significantly for EEA family permits and other settlements, the latter categories involving no consideration of the professional or academic qualification of the applicants. 
 
 <img width="617" alt="Github 9" src="https://user-images.githubusercontent.com/92430113/145985267-d0d60d86-e433-47d8-a00f-c83b9dd0577a.png">
 
@@ -99,19 +105,15 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
  <h3>C. Analysis on applicant type (for all regions)</3>
  
+ In this third part, we follow an analysis of the Applicant Visa Issue Rate for all the years, thus without time clustering. Out of our three studies, this quantitative analysis block shows the least relevant results: the applicant type does not seem to show a strong impact on the visa issue rates. Therefore, our study cannot draw any relevant conclusions from this analysis. These inconclusive results do not change when clustering by time (2005-2014 and 2015-2020), as seen in the following graph. 
+ 
 <img width="622" alt="github 11" src="https://user-images.githubusercontent.com/92430113/146191838-94786c95-f004-4ce4-8d79-2c3b4721b081.png">
- 
- 
-
-
-  
 
 <h2>Scope and conclusions</h2>
  
 It is therefore evident from our analysis that the algorithm deployed by the UK Home office perpetuated existent racist dynamics further. More concretely, nationality played a role in informing the risk scores used to classify applicants. Our analysis shows that as a result,  the UK Visa Issuing Algorithm negatively affected North African applicants more than other applicants. Indeed, North African visa applicants were disproportionately rejected before 2015. However, this increased with the introduction of the algorithm which furthered this effect, potentially both in form or through the presence of an internal feedback loop. Nevertheless, contrary to what was initially alleged, the bias did not seem to discriminate against Sub-Saharan African applicants.
 
 Probing further, the Visa Types that were most affected by a decrease of the Visa Issue Rate in North Africa before and after 2015 were those linked to a higher level of vulnerability and need of [humanitarian] assistance, whilst a tendency that was more broadly identifiable. Moreover, the Applicant Type that was most affected by a decrease of the Visa Issue Rate in North Africa before and after 2015 was the Dependent type. Both these findings further emphasise the prioritization of economic profitability in disregard for the potential sociality ensuing migration, long since an exploitative cornerstone of migration policy.  The question remains, considering the algorithm is a perpetuation of exclusionary dynamics of the nation-state beyond a reiteration of biases in data, what a fair and realistic deployment of algorithms at borders would look like. In other words an algorithm which genuinely addresses contemporary socio-economic tensions, to political and real world effect.
- 
  
 <h2>Bibliography</h2>
  
