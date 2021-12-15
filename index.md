@@ -79,7 +79,7 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
  <p>Following this, we focus our analysis on North Africa, still comparing the data from 2005-2014 to 2015-2020. We proceed in three steps: (1) by analysing the visa issue rate per country; (2) then the visa issue rate per country; and (3) lastly the visa issue rate per applicant type.</p>
  
- <h4>1) Analysis of visa issue rata per rate</h4>
+ <h4>1) Analysis of visa issue rate per country</h4>
  
  <p>Here, our analysis shows that the percentage of visa issued lowers significantly from the data before and after the algorithm was introduced. This finding allows us to <strong>confirm the bias of the algorithm towards North African applicants</strong>. Such a bias must be read in light of the migrant crisis of 2015. Indeed, political and terrorist troubles in North Africa forced people to leave their home country (particularly Tunisia and Libya) and to go to Europe. As a result, the UK adopted a more protectionist visa issuance policy.</p>
  
