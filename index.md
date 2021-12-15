@@ -60,34 +60,28 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  <h2>Methodology</h2>
  
  <h3>A. Analysis on the origin of the applicant (region and nationality)</h3>
- <img width="411" alt="Github 1" src="https://user-images.githubusercontent.com/92430113/145844706-f534e13b-eefe-40ee-b303-35e76b74a3cd.png">
+ 
+ <img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png">
+ <img width="615" alt="Github 4" src="https://user-images.githubusercontent.com/92430113/145985143-0c7afc90-7133-4210-a4c6-147782c7164a.png">
+ 
  
  <h4>1) Analysis of visa issue rata per rate</h4>
  
-<img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png">
+ 
+<img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
  
  <h4>2) Analysis of visa issue rate per visa type</h4>
  
-<img width="615" alt="Github 4" src="https://user-images.githubusercontent.com/92430113/145985143-0c7afc90-7133-4210-a4c6-147782c7164a.png">
+ 
+<img width="607" alt="github 6" src="https://user-images.githubusercontent.com/92430113/145985226-ff8e274c-476f-4bfb-ab1c-b9cd8f7f52ce.png">
  
  <h4>3) Analysis of visa issuance rate per applicant type</h4>
  
- 
-<img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
 
+<img width="621" alt="Github 7" src="https://user-images.githubusercontent.com/92430113/145985240-65c2ad65-8bb5-4c5c-83a4-6cd92f5f64e6.png">
  
  <h3>B. Analysis on visa type (for all regions)</h3>
  
- 
-<img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
-
- 
- <h3>C. Analysis on applicant type (for all regions)</3>
- 
-
-<img width="607" alt="github 6" src="https://user-images.githubusercontent.com/92430113/145985226-ff8e274c-476f-4bfb-ab1c-b9cd8f7f52ce.png">
-
-<img width="621" alt="Github 7" src="https://user-images.githubusercontent.com/92430113/145985240-65c2ad65-8bb5-4c5c-83a4-6cd92f5f64e6.png">
 
 <img width="609" alt="Github 8" src="https://user-images.githubusercontent.com/92430113/145985389-51365722-78d5-488b-bf15-d4021e2a3f1a.png">
 
@@ -95,8 +89,14 @@ Other temporary visas are similar, but are meant for those who do not fit in the
 
 <img width="640" alt="Github 10" src="https://user-images.githubusercontent.com/92430113/145985325-dac27792-179d-4d65-9eb8-096ca92d00be.png">
 
+ 
+ <h3>C. Analysis on applicant type (for all regions)</3>
+ 
+ 
+ 
+
+
   
-<h2>Results</h2>
 
 <h2>Scope and conclusions</h2>
  
