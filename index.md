@@ -1,6 +1,6 @@
 <h1>THE BIASES OF THE UK VISA ISSUING SYSTEM: A QUALITATIVE AND QUANTITATIVE ANALYSIS</h1>
 
-<h2> Final project - decoding biases in Artificial Intelligence - SciencesPo Paris 2021-2022</h2>
+<h2> Final project - Decoding Biases in Artificial Intelligence - SciencesPo Paris 2021-2022</h2>
 
 <h3>Group members</h3>
 <BODY> FLAMANT.M, GENELETTI.G, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
