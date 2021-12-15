@@ -94,31 +94,31 @@
 <h3>Visa types</h3>
  
  <ul>
-  <li type="disc"> <p align="justify"><strong>Visitors visas</strong>: Visitors are people who wish to stay in the UK for a temporary period of less than six months</p> </li> 
+  <li type="disc"> <p align="justify"> <p align="justify"><strong>Visitors visas</strong>: Visitors are people who wish to stay in the UK for a temporary period of less than six months</p> </li> 
    
-<li type="disc">  <strong>Sponsored study visas</strong>: meant for students who have been offered a place on a course by a licensed student sponsored and wish therefore to study under this program in the UK. </p> </li> 
+<li type="disc"> <p align="justify">  <strong>Sponsored study visas</strong>: meant for students who have been offered a place on a course by a licensed student sponsored and wish therefore to study under this program in the UK. </p> </li> 
  
- <li type="disc">  <strong>Other study visas</strong>: granted when someone wishes to study in the UK in another framework than the sponsored one. </p> </li> 
+ <li type="disc"> <p align="justify">  <strong>Other study visas</strong>: granted when someone wishes to study in the UK in another framework than the sponsored one. </p> </li> 
  
- <li type="disc">  <strong>Skilled workers visas</strong>: a special category of visas among work visas, meant for workers who have been offered a skilled job with an annual salary of at least £25,000 </p> </li> 
+ <li type="disc"> <p align="justify">  <strong>Skilled workers visas</strong>: a special category of visas among work visas, meant for workers who have been offered a skilled job with an annual salary of at least £25,000 </p> </li> 
  
- <li type="disc">  <strong>High value visas</strong>: they follow the same logic as Skilled worker visas but are meant for high-value individuals who will contribute to growth and productivity </p> </li> 
+ <li type="disc"> <p align="justify">  <strong>High value visas</strong>: they follow the same logic as Skilled worker visas but are meant for high-value individuals who will contribute to growth and productivity </p> </li> 
  
-  <li type="disc">  <strong>Other work visas</strong>: work visas that do not fit in the framework of the skilled workers or high-value visas </p> </li> 
+  <li type="disc"> <p align="justify">  <strong>Other work visas</strong>: work visas that do not fit in the framework of the skilled workers or high-value visas </p> </li> 
   
-  <li type="disc">  <strong>Family visas</strong>: they allow people to apply for a visa based on their family connection with someone in the UK, whether this person is a UK citizen or has just been granted a visa to stay </p> </li> 
+  <li type="disc"> <p align="justify">  <strong>Family visas</strong>: they allow people to apply for a visa based on their family connection with someone in the UK, whether this person is a UK citizen or has just been granted a visa to stay </p> </li> 
   
-  <li type="disc">  <strong>Temporary workers visas</strong>: granted when someone needs to visit the UK for a short period of time to work </p> </li> 
+  <li type="disc"> <p align="justify">  <strong>Temporary workers visas</strong>: granted when someone needs to visit the UK for a short period of time to work </p> </li> 
   
-  <li type="disc">  <strong>Other temporary visas</strong>:  similar to the above but are meant for applicants who do not fit in the framework of the temporary visas </p> </li> 
+  <li type="disc"> <p align="justify">  <strong>Other temporary visas</strong>:  similar to the above but are meant for applicants who do not fit in the framework of the temporary visas </p> </li> 
   
-  <li type="disc">  <strong>Dependant visas</strong>:  granted to people who apply on the basis of their relationship to another applicant, whether they are joining or accompanying the latest. </p> </li> 
+  <li type="disc"> <p align="justify">  <strong>Dependant visas</strong>:  granted to people who apply on the basis of their relationship to another applicant, whether they are joining or accompanying the latest. </p> </li> 
   
-  <li type="disc">  <strong>EEA family permit</strong>: allows a non-EEA citizen to enter into the UK on the basis of his/ her relationship to an EEA citizen </p> </li> 
+  <li type="disc"> <p align="justify">  <strong>EEA family permit</strong>: allows a non-EEA citizen to enter into the UK on the basis of his/ her relationship to an EEA citizen </p> </li> 
   
-   <li type="disc">  <strong>EU Settlement Scheme family permit</strong>:  launched following the UK’s decision to leave the EU and has existed since March 30th 2019. It allows a dependent to join, or accompany, an EEA citizen who has been granted indefinite or limited leave under the EU Settlement Scheme. Data relating to this type of visa was included in the dataset but will not be analysed in our study because of the recency of the data </p> </li> 
+   <li type="disc"> <p align="justify">  <strong>EU Settlement Scheme family permit</strong>:  launched following the UK’s decision to leave the EU and has existed since March 30th 2019. It allows a dependent to join, or accompany, an EEA citizen who has been granted indefinite or limited leave under the EU Settlement Scheme. Data relating to this type of visa was included in the dataset but will not be analysed in our study because of the recency of the data </p> </li> 
    
-   <li type="disc">  <strong>Other settlement visas</strong>: refer to visas that can allow for indefinite leave to enter (on arrival) or indefinite leave to remain (after entry). </p> </li> 
+   <li type="disc">  <p align="justify"> <strong>Other settlement visas</strong>: refer to visas that can allow for indefinite leave to enter (on arrival) or indefinite leave to remain (after entry). </p> </li> 
        
   </ul>
  
