@@ -59,11 +59,18 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
  <h2>Methodology</h2>
  
+<BODY>Due to the Home Office’s opaque policies and the lack of a judicial decision, our quantitative analysis <strong>could not rely on certain data</strong>. Namely, whilst aware that nationality was relevant to the risk scale, the specific risk-scales attributed to applicants remained unreleased. Furthermore, the Home Office <stong>did not publish information on the resolution times</strong> of applications, inhibiting us form evaluating potential discrimination in this dimension. However, we were able to analyse the <strong>different visa types that constitute UK migration policy as well as the categories of applicants</strong> that apply to the various visa types. Due to global socio-economic structures (outlined in the literature review) these visa types and applicant categories can be linked to nationalities. Therefore, our quantitative approach utilizes the existence of differentiations in the categorization of visa applications, according to the education level, family and working status, and personal ties of the applicants. We subsequently build upon this, using the politicization of international relations in order to reflect on the racist effects of the algorithm. As such this analysis is built on three main blocks: (A) first, an analysis on the origin of the applicants by region and nationality, which in itself is divided into three sub-analyses (1, 2 and 3); (B) second, an analysis on visa types for all regions; and (C) third, an analysis on applicant types for all regions.</BODY>
+ 
  <h3>A. Analysis on the origin of the applicant (region and nationality)</h3>
  
+ Regarding the bias that was already recognized as such, the origin of the applicants (region and nationality), we find that the lowests percentages of visa issue rate come from countries in Africa, as shown in the graph below.
  <img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png">
+ 
+ From here on, our analysis focused on the clustering in <strong>two time spans</strong>. The first, <strong>2005-2014</strong> corresponds to the time before the alleged discriminatory algorithm existed and the second, <strong>2015-2020</strong> to when this algorithm was used. Comparison of these two times spans allows us to draw conclusions on whether the second system was indeed discriminatory or not. As it can be read in the graph below, we find that the region that saw the biggest change between the two periods is North Africa. 
+
  <img width="615" alt="Github 4" src="https://user-images.githubusercontent.com/92430113/145985143-0c7afc90-7133-4210-a4c6-147782c7164a.png">
  
+ Following this, we focus our analysis on North Africa, still comparing the data from 2005-2014 to 2015-2020. We proceed in three steps: (1) by analysing the visa issue rate per country; (2) then the visa issue rate per country; and (3) lastly the visa issue rate per applicant type. 
  
  <h4>1) Analysis of visa issue rata per rate</h4>
  
@@ -92,6 +99,7 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
  <h3>C. Analysis on applicant type (for all regions)</3>
  
+<img width="622" alt="github 11" src="https://user-images.githubusercontent.com/92430113/146191838-94786c95-f004-4ce4-8d79-2c3b4721b081.png">
  
  
 
