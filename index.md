@@ -1,4 +1,4 @@
-<h1>The biases of the UK visa issuing system : a qualitative and quantitative analysis</h1>
+<h1>THE BIASES OF THE UK VISA ISSUING SYSTEM: A QUALITATIVE AND QUANTITATIVE ANALYSIS</h1>
 
 <h2> Final project - decoding biases in Artificial Intelligence - SciencesPo Paris 2021-2022</h2>
 
