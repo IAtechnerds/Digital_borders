@@ -93,6 +93,16 @@
  
 <h3>Visa types</h3>
  
+ <ul>
+  <li type="disc"> <p align="justify"><strong>Visitors visas</strong>: Visitors are people who wish to stay in the UK for a temporary period of less than six months</p> </li> 
+   
+<li type="disc">  <p align="justify"> For matters of uniformity and comfort, the variables names were changes to: ['Year', 'Nationality', 'Region', 'Visa type', 'Applicant type', 'Case outcome', 'Decisions'] </p> </li> 
+   
+  <li type="disc"> <p align="justify"> We only kept data regarding the case outcomes “Issued” and “Refused”. The original dataset contained values also for “Withdrawn” and “Lapsed” applications, which were not relevant to our analysis and that we thus were not considered.</p> </li>
+   
+ <li type="disc"> <p align="justify"> We transformed the data type of the variables "Year" and “Decisions” into integers (they originally came as floats). </p></li> 
+  </ul>
+ 
 <h3>Data cleaning and manipulation</h3>
  
   <ul>
