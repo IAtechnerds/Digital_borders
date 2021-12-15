@@ -59,7 +59,12 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  
  <h2>Methodology</h2>
  
- 
+ <h3>A. Analysis on the origin of the applicant (region and nationality)</h3>
+ <h4>1) Analysis of visa issue rata per rate</h4>
+ <h4>2) Analysis of visa issue rate per visa type</h4>
+ <h4>3) Analysis of visa issuance rate per applicant type</h4>
+ <h3>B. Analysis on visa type (for all regions)</h3>
+ <h3>C. Analysis on applicant type (for all regions)</3>
  
 <img width="411" alt="Github 1" src="https://user-images.githubusercontent.com/92430113/145844706-f534e13b-eefe-40ee-b303-35e76b74a3cd.png">
  
