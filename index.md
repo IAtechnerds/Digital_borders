@@ -1,4 +1,10 @@
-<h1>DECODING DIGITAL BORDERS</h1>
+<h1>The biases of the UK visa issuing system : a qualitative and quantitative analysis</h1>
+
+<h3> Final project - decoding biases in Artificial Intelligence - SciencesPo Paris 2021-2022</3>
+<h4>Group members</h4>
+<BODY> GENELLETI.G, FLAMANT.M, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
+
+
 
 <h2>Introduction</h2>
 
