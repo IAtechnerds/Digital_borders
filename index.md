@@ -60,19 +60,30 @@ Other temporary visas are similar, but are meant for those who do not fit in the
  <h2>Methodology</h2>
  
  <h3>A. Analysis on the origin of the applicant (region and nationality)</h3>
- <h4>1) Analysis of visa issue rata per rate</h4>
- <h4>2) Analysis of visa issue rate per visa type</h4>
- <h4>3) Analysis of visa issuance rate per applicant type</h4>
- <h3>B. Analysis on visa type (for all regions)</h3>
- <h3>C. Analysis on applicant type (for all regions)</3>
+ <img width="411" alt="Github 1" src="https://user-images.githubusercontent.com/92430113/145844706-f534e13b-eefe-40ee-b303-35e76b74a3cd.png">
  
-<img width="411" alt="Github 1" src="https://user-images.githubusercontent.com/92430113/145844706-f534e13b-eefe-40ee-b303-35e76b74a3cd.png">
+ <h4>1) Analysis of visa issue rata per rate</h4>
  
 <img width="606" alt="Github 2" src="https://user-images.githubusercontent.com/92430113/145984415-a3941b5d-c6c2-45f3-b881-1e7e0f763d49.png">
  
+ <h4>2) Analysis of visa issue rate per visa type</h4>
+ 
 <img width="615" alt="Github 4" src="https://user-images.githubusercontent.com/92430113/145985143-0c7afc90-7133-4210-a4c6-147782c7164a.png">
-
+ 
+ <h4>3) Analysis of visa issuance rate per applicant type</h4>
+ 
+ 
 <img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
+
+ 
+ <h3>B. Analysis on visa type (for all regions)</h3>
+ 
+ 
+<img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
+
+ 
+ <h3>C. Analysis on applicant type (for all regions)</3>
+ 
 
 <img width="607" alt="github 6" src="https://user-images.githubusercontent.com/92430113/145985226-ff8e274c-476f-4bfb-ab1c-b9cd8f7f52ce.png">
 
@@ -96,57 +107,57 @@ Probing further, the Visa Types that were most affected by a decrease of the Vis
  
 <h2>Bibliography</h2>
  
-Amoore, L., 2006. Biometric borders: Governing mobilities in the war on terror. Political Geography 25, 336–351. https://doi.org/10.1016/j.polgeo.2006.02.001
+<p>Amoore, L., 2006. Biometric borders: Governing mobilities in the war on terror. Political Geography 25, 336–351. https://doi.org/10.1016/j.polgeo.2006.02.001</p>
 
-Amoore, L., Piotukh, V., 2015. Life Beyond Big Data: Governing with Little Analytics. Economy and Society 44, 341–366. https://doi.org/10.1080/03085147.2015.1043793
+<p>Amoore, L., Piotukh, V., 2015. Life Beyond Big Data: Governing with Little Analytics. Economy and Society 44, 341–366. https://doi.org/10.1080/03085147.2015.1043793</p>
 
-Anders, G., 2008. The Normativity of Numbers: World bank and IMF Conditionality. Political and Legal Anthropology Review 31, 187–202. https://doi.org/10.1111/j.1555-2934.2008.00021.x
+<p>Anders, G., 2008. The Normativity of Numbers: World bank and IMF Conditionality. Political and Legal Anthropology Review 31, 187–202. https://doi.org/10.1111/j.1555-2934.2008.00021.x</p>
 
-Anderson, R., 2014. Illegality, Inc.: Clandestine Migration and the Business of Bordering Europe. University of California Press. https://doi.org/10.1093/he/9780199601660.003.0011
+<p>Anderson, R., 2014. Illegality, Inc.: Clandestine Migration and the Business of Bordering Europe. University of California Press. https://doi.org/10.1093/he/9780199601660.003.0011</p>
 
-Asad, T., 2003. What Might an Anthropology of Secularism Look Like?, in: Formations of the Secular: Christianity, Islam, Modernity. Stanford University Press, Stanford, California, pp. 21–66.
+<p>Asad, T., 2003. What Might an Anthropology of Secularism Look Like?, in: Formations of the Secular: Christianity, Islam, Modernity. Stanford University Press, Stanford, California, pp. 21–66.</p>
 
-Bosworth, M., 2008. Border control and the limits of the Sovereign State. Social and Legal Studies 17, 199–215. https://doi.org/10.1177/0964663908089611
+<p>Bosworth, M., 2008. Border control and the limits of the Sovereign State. Social and Legal Studies 17, 199–215. https://doi.org/10.1177/0964663908089611</p>
 
-Bove, V., Böhmelt, T., Nussio, E., 2021. Terrorism Abroad and Migration Policies at Home. Journal of European Public Policy 28, 190–207. https://doi.org/10.1080/13501763.2020.1729227
+<p>Bove, V., Böhmelt, T., Nussio, E., 2021. Terrorism Abroad and Migration Policies at Home. Journal of European Public Policy 28, 190–207. https://doi.org/10.1080/13501763.2020.1729227</p>
 
-Capdevila, R., Callaghan, J.E.M., 2008. ‘It’s not Racist. It’s Common Sense’. A Critical Analysis of Political Discourse Around Asylum and Immigration in the UK. Journal of Community and Applied Social Psychology 1–16. https://doi.org/10.1002/casp
+<p>Capdevila, R., Callaghan, J.E.M., 2008. ‘It’s not Racist. It’s Common Sense’. A Critical Analysis of Political Discourse Around Asylum and Immigration in the UK. Journal of Community and Applied Social Psychology 1–16. https://doi.org/10.1002/casp</p>
 
-Ceccorulli, M., 2019. Back to Schengen: the collective securitisation of the EU free-border area. West European Politics 42, 302–322. https://doi.org/10.1080/01402382.2018.1510196
+<p>Ceccorulli, M., 2019. Back to Schengen: the collective securitisation of the EU free-border area. West European Politics 42, 302–322. https://doi.org/10.1080/01402382.2018.1510196</p>
 
-Bulman, M. (2019, June 5). Austerity measures and hostile environment ‘entrenching racism’ in UK, says UN. The Independent. https://www.independent.co.uk/news/uk/home-news/austerity-racism-hostile-environment-xenophobia-un-report-rapporteur-immigration-bame-a8959866.html
+<p>Bulman, M. (2019, June 5). Austerity measures and hostile environment ‘entrenching racism’ in UK, says UN. The Independent. https://www.independent.co.uk/news/uk/home-news/austerity-racism-hostile-environment-xenophobia-un-report-rapporteur-immigration-bame-a8959866.html</p>
 
-de León, J., 2015. The Land of Open Graves: Living and Dying on the Migrant Trail, City & Society. University of California Press, Oakland, California.
+<p>De León, J., 2015. The Land of Open Graves: Living and Dying on the Migrant Trail, City & Society. University of California Press, Oakland, California.</p>
 
-Garza, A.G., 2018. The temporality of illegality. Focaal 2018, 86–98. https://doi.org/10.3167/fcl.2018.810107
+<p>Garza, A.G., 2018. The temporality of illegality. Focaal 2018, 86–98. https://doi.org/10.3167/fcl.2018.810107</p>
 
 <p>Gilbert, P.R., 2020. Speculating on sovereignty: ‘money mining’ and corporate foreign policy at the extractive industry frontier. Economy and Society 49, 16–44. https://doi.org/10.1080/03085147.2019.1690255</p>
 
-<p>GOV.UK. (2021a). Browse: Work in the UK. https://www.gov.uk/browse/visas-immigration/work-visas</p>
+GOV.UK. (2021a). Browse: Work in the UK. https://www.gov.uk/browse/visas-immigration/work-visas
 
-<p>GOV.UK. (2021b). Managed migration datasets. https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets</p>
+GOV.UK. (2021b). Managed migration datasets. https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets
 
-<p>Heaven, W. D. (2020, August 5). The UK is dropping an immigration algorithm that critics say is racist. MIT Technology Review. https://www.technologyreview.com/2020/08/05/1006034/the-uk-is-dropping-an-immigration-algorithm-that-critics-say-is-racist/</p>
+Heaven, W. D. (2020, August 5). The UK is dropping an immigration algorithm that critics say is racist. MIT Technology Review. https://www.technologyreview.com/2020/08/05/1006034/the-uk-is-dropping-an-immigration-algorithm-that-critics-say-is-racist/
 
-<p>HM Government, 2020. The UK’s Points-Based Immigration System: Further Details.
-Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/</p>
+HM Government, 2020. The UK’s Points-Based Immigration System: Further Details.
+Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/
 
-<p>Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1</p>
+Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1
 
-<p>Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. https://doi.org/10.1177/0305829812463655</p>
+Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. https://doi.org/10.1177/0305829812463655
 
-Mcc. Heyman, J., 1995. Putting Power in the Anthropology of Bureaucracy: The Immigration and Naturalization Service at the Mexico-United States Border. Current Anthropology 36, 261–287. https://doi.org/10.1086/204354</p>
+Mcc. Heyman, J., 1995. Putting Power in the Anthropology of Bureaucracy: The Immigration and Naturalization Service at the Mexico-United States Border. Current Anthropology 36, 261–287. https://doi.org/10.1086/204354
 
-<p><p>McDonald, H. (2020, August 4). Home Office to scrap “racist algorithm” for UK visa applicants. The Guardian. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants</p>
+McDonald, H. (2020, August 4). Home Office to scrap “racist algorithm” for UK visa applicants. The Guardian. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants
 
-<p>Mitchell, T., 2007. Society, Economy, and the State Effect, in: Sharma, A., Gupta, A. (Eds.), The Anthropology of the State: A Reader. Blackwell Publishing Ltd., pp. 172–186.</p>
+Mitchell, T., 2007. Society, Economy, and the State Effect, in: Sharma, A., Gupta, A. (Eds.), The Anthropology of the State: A Reader. Blackwell Publishing Ltd., pp. 172–186.
 
-<p>Murphy, E., Maguire, M., 2015. Speed, Time and Security: Anthropological Perspectives on Automated Border Control. Etnofoor 27, 157–177.</p>
+Murphy, E., Maguire, M., 2015. Speed, Time and Security: Anthropological Perspectives on Automated Border Control. Etnofoor 27, 157–177.
 
-<p>Tuckett, A., 2015. Strategies of Navigation: Migrants’ Everyday Encounters with Italian Immigration Bureaucracy. The Cambridge Journal of Anthropology 33, 113–128. https://doi.org/10.3167/ca.2015.330109</p>
+Tuckett, A., 2015. Strategies of Navigation: Migrants’ Everyday Encounters with Italian Immigration Bureaucracy. The Cambridge Journal of Anthropology 33, 113–128. https://doi.org/10.3167/ca.2015.330109
 
-<p>Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times. https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018</p>
+Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times. https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018
 
-<p>We won! Home Office to stop using racist visa algorithm. (2020). The Joint Council for the Welfare of Immigrants. https://www.jcwi.org.uk/News/we-won-home-office-to-stop-using-racist-visa-algorithm</p>
+We won! Home Office to stop using racist visa algorithm. (2020). The Joint Council for the Welfare of Immigrants. https://www.jcwi.org.uk/News/we-won-home-office-to-stop-using-racist-visa-algorithm
 
 
