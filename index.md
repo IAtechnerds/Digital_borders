@@ -94,7 +94,7 @@
 <h3>Visa types</h3>
  
  <ul>
-  <li type="disc"> <p align="justify"> <p align="justify"><strong>Visitors visas</strong>: Visitors are people who wish to stay in the UK for a temporary period of less than six months.</p> </li> 
+  <li type="disc"> <p align="justify"><strong>Visitors visas</strong>: Visitors are people who wish to stay in the UK for a temporary period of less than six months.</p> </li> 
    
 <li type="disc"> <p align="justify">  <strong>Sponsored study visas</strong>: meant for students who have been offered a place on a course by a licensed student sponsored and wish therefore to study under this program in the UK. </p> </li> 
  
@@ -119,7 +119,6 @@
    <li type="disc"> <p align="justify">  <strong>EU Settlement Scheme family permit</strong>:  launched following the UK’s decision to leave the EU and has existed since March 30th 2019. It allows a dependent to join, or accompany, an EEA citizen who has been granted indefinite or limited leave under the EU Settlement Scheme. Data relating to this type of visa was included in the dataset but will not be analysed in our study because of the recency of the data. </p> </li> 
    
    <li type="disc">  <p align="justify"> <strong>Other settlement visas</strong>: refer to visas that can allow for indefinite leave to enter (on arrival) or indefinite leave to remain (after entry). </p> </li> 
-       
   </ul>
  
 <h3>Data cleaning and manipulation</h3>
