@@ -55,7 +55,7 @@
  
  <h4>1) Analysis of visa issue rate per country</h4>
  
- <p align="justify">Here, our analysis shows that the percentage of visa issued lowers significantly from the data before and after the algorithm was introduced. This finding allows us to <strong>confirm the bias of the algorithm towards North African applicants</strong>. Such a bias must be read in light of the migrant crisis of 2015. Indeed, political and terrorist troubles in North Africa forced people to leave their home country (particularly Tunisia and Libya) and to go to Europe. As a result, the UK adopted a more protectionist visa issuance policy.</p>
+ <p align="justify">Here, our analysis shows that the percentage of visas issued in North Africa lowers significantly from the data before and after the algorithm was introduced. The countries in this geographical category include: Algeria, Egypt, Libya, Mauritania, Morocco, Sudan and Tunisia. Given the data available and the possible statistical measurement applicable to them, this finding allow us to partly confirm the existance of a discrimination bias embedded in the Visa Issuing algorithm deployed in 2015 toward North African applicants. Qualitatively, we can speculate this finding by relating it to the migrant crisis of 2015, where political, economic and social instabilities in North Africa forced people to leave their home country and look for better opportunities in Europe. As a result, the UK adopted a more protectionist visa issuance policy that could indeed be recognized from our quantitative analysis.</p>
  
 <img width="617" alt="Github 5" src="https://user-images.githubusercontent.com/92430113/145985156-e8bbe22b-d16c-470d-b21e-ba16322e4ca8.png">
  
