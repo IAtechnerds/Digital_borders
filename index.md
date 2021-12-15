@@ -107,7 +107,7 @@
  
 <h2>Bibliography</h2>
  
-<p align="justify">Amoore, L., 2006. Biometric borders: Governing mobilities in the war on terror. Political Geography 25, 336–351. https://doi.org/10.1016/j.polgeo.2006.02.001</p>
+<p align="justify">Amoore, L., 2006. Biometric borders: Governing mobilities in the war on terror. Political Geography 25, 336–351. <a href=https://colab.research.google.com/drive/17m3v0H_3LklmyBZ_GYCnKF1yp3zmgXes>https://colab.research.google.com/drive/17m3v0H_3LklmyBZ_GYCnKF1yp3zmgXes</a></p>
 
 <p align="justify">Amoore, L., Piotukh, V., 2015. Life Beyond Big Data: Governing with Little Analytics. Economy and Society 44, 341–366. https://doi.org/10.1080/03085147.2015.1043793</p>
 
