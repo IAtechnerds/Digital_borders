@@ -133,31 +133,31 @@ Probing further, the Visa Types that were most affected by a decrease of the Vis
 
 <p>Gilbert, P.R., 2020. Speculating on sovereignty: ‘money mining’ and corporate foreign policy at the extractive industry frontier. Economy and Society 49, 16–44. https://doi.org/10.1080/03085147.2019.1690255</p>
 
-GOV.UK. (2021a). Browse: Work in the UK. https://www.gov.uk/browse/visas-immigration/work-visas
+<p>GOV.UK. (2021a). Browse: Work in the UK. https://www.gov.uk/browse/visas-immigration/work-visas</p>
 
-GOV.UK. (2021b). Managed migration datasets. https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets
+<p>GOV.UK. (2021b). Managed migration datasets. https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets</p>
 
-Heaven, W. D. (2020, August 5). The UK is dropping an immigration algorithm that critics say is racist. MIT Technology Review. https://www.technologyreview.com/2020/08/05/1006034/the-uk-is-dropping-an-immigration-algorithm-that-critics-say-is-racist/
+<p>Heaven, W. D. (2020, August 5). The UK is dropping an immigration algorithm that critics say is racist. MIT Technology Review. https://www.technologyreview.com/2020/08/05/1006034/the-uk-is-dropping-an-immigration-algorithm-that-critics-say-is-racist/</p>
 
-HM Government, 2020. The UK’s Points-Based Immigration System: Further Details.
-Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/
+<p>HM Government, 2020. The UK’s Points-Based Immigration System: Further Details.
+Home Office says it will abandon its racist visa algorithm – after we sued them. (2020, August 4). Foxglove. https://www.foxglove.org.uk/2020/08/04/home-office-says-it-will-abandon-its-racist-visa-algorithm-after-we-sued-them/</p>
 
-Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1
+<p>Lomas, N. (2020, August 4). UK commits to redesign visa streaming algorithm after challenge to “racist” tool. TechCrunch. https://techcrunch.com/2020/08/04/uk-commits-to-redesign-visa-streaming-algorithm-after-challenge-to-racist-tool/?guccounter=1</p>
 
-Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. https://doi.org/10.1177/0305829812463655
+<p>Mavelli, L., 2013. Between Normalisation and Exception: The Securitisation of Islam and the Construction of the Secular Subject. Millennium: Journal of International Studies 41, 159–181. https://doi.org/10.1177/0305829812463655</p>
 
-Mcc. Heyman, J., 1995. Putting Power in the Anthropology of Bureaucracy: The Immigration and Naturalization Service at the Mexico-United States Border. Current Anthropology 36, 261–287. https://doi.org/10.1086/204354
+<p>Mcc. Heyman, J., 1995. Putting Power in the Anthropology of Bureaucracy: The Immigration and Naturalization Service at the Mexico-United States Border. Current Anthropology 36, 261–287. https://doi.org/10.1086/204354</p>
 
-McDonald, H. (2020, August 4). Home Office to scrap “racist algorithm” for UK visa applicants. The Guardian. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants
+<p>McDonald, H. (2020, August 4). Home Office to scrap “racist algorithm” for UK visa applicants. The Guardian. https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants</p>
 
-Mitchell, T., 2007. Society, Economy, and the State Effect, in: Sharma, A., Gupta, A. (Eds.), The Anthropology of the State: A Reader. Blackwell Publishing Ltd., pp. 172–186.
+<p>Mitchell, T., 2007. Society, Economy, and the State Effect, in: Sharma, A., Gupta, A. (Eds.), The Anthropology of the State: A Reader. Blackwell Publishing Ltd., pp. 172–186.</p>
 
-Murphy, E., Maguire, M., 2015. Speed, Time and Security: Anthropological Perspectives on Automated Border Control. Etnofoor 27, 157–177.
+<p>Murphy, E., Maguire, M., 2015. Speed, Time and Security: Anthropological Perspectives on Automated Border Control. Etnofoor 27, 157–177.</p>
 
-Tuckett, A., 2015. Strategies of Navigation: Migrants’ Everyday Encounters with Italian Immigration Bureaucracy. The Cambridge Journal of Anthropology 33, 113–128. https://doi.org/10.3167/ca.2015.330109
+<p>Tuckett, A., 2015. Strategies of Navigation: Migrants’ Everyday Encounters with Italian Immigration Bureaucracy. The Cambridge Journal of Anthropology 33, 113–128. https://doi.org/10.3167/ca.2015.330109</p>
 
-Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times. https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018
+<p>Warrel, H. (2020, August 4). Home Office drops ‘biased’ visa algorithm. Financial Times. https://www.ft.com/content/a02c6c42-95b1-419c-a798-0418011d2018</p>
 
-We won! Home Office to stop using racist visa algorithm. (2020). The Joint Council for the Welfare of Immigrants. https://www.jcwi.org.uk/News/we-won-home-office-to-stop-using-racist-visa-algorithm
+<p>We won! Home Office to stop using racist visa algorithm. (2020). The Joint Council for the Welfare of Immigrants. https://www.jcwi.org.uk/News/we-won-home-office-to-stop-using-racist-visa-algorithm</p>
 
 
