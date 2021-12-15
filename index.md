@@ -75,8 +75,6 @@
  
 <p>In this second part, we analysed potential discrimination on the Visa Type, not applied to specific Regions or nationalities.</p>
  
-<img width="609" alt="Github 8" src="https://user-images.githubusercontent.com/92430113/145985389-51365722-78d5-488b-bf15-d4021e2a3f1a.png">
- 
 <p align="justify">As we did in our previous analysis, we have clustered our analysis of the visa types in two time spans: for the years 2005-2014 and 2015-2020. We observe that the percentages of the visa issuance rate for visa type that lowers the most are the <strong>EEA family permit and the other settlements</strong>. The latter refers to visas that can allow for indefinite leave to enter (on arrival) or indefinite leave to remain (after entry). These results, shown in the graph below, are quite telling in showing how the UK was willing to issue visas to migrants who would “prop up the nation'' (Bosworth, 2008). Indeed, the visa issuance rate for <strong>skilled workers, temporary workers</strong> (those granted to people with lower wages and more precarious, seasonal and therefore short-term jobs) <strong>and other study</strong> increased while these rates decreased significantly for EEA family permits and other settlements, the latter categories involving no consideration of the professional or academic qualification of the applicants.</p>
 
 <img width="617" alt="Github 9" src="https://user-images.githubusercontent.com/92430113/145985267-d0d60d86-e433-47d8-a00f-c83b9dd0577a.png">
