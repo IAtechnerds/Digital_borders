@@ -5,7 +5,7 @@
 <h3>Group members</h3>
 <BODY> FLAMANT.M, GENELETTI.G, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
 
- <h3>Table of content</h3>
+ <h3>Table of contents</h3>
  
 <ol>
  <li>Introduction</li>
