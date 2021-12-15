@@ -4,6 +4,8 @@
 <h4>Group members</h4>
 <BODY> GENELLETI.G, FLAMANT.M, MANGADA REAL DE ASUA.E, PAXTON.G, VIVENOT.B
 
+ <h3>Table of content</3>
+ 
 <ol>
  <li>Introduction</li>
  <li>Literature review and approach</li>
