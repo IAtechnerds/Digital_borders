@@ -86,7 +86,12 @@ Other temporary visas are similar, but are meant for those who do not fit in the
 
 <h2>Scope and conclusions</h2>
  
- <h2>Bibliography</h2>
+It is therefore evident from our analysis that the algorithm deployed by the UK Home office perpetuated existent racist dynamics further. More concretely, nationality played a role in informing the risk scores used to classify applicants. Our analysis shows that as a result,  the UK Visa Issuing Algorithm negatively affected North African applicants more than other applicants. Indeed, North African visa applicants were disproportionately rejected before 2015. However, this increased with the introduction of the algorithm which furthered this effect, potentially both in form or through the presence of an internal feedback loop. Nevertheless, contrary to what was initially alleged, the bias did not seem to discriminate against Sub-Saharan African applicants.
+
+Probing further, the Visa Types that were most affected by a decrease of the Visa Issue Rate in North Africa before and after 2015 were those linked to a higher level of vulnerability and need of [humanitarian] assistance, whilst a tendency that was more broadly identifiable. Moreover, the Applicant Type that was most affected by a decrease of the Visa Issue Rate in North Africa before and after 2015 was the Dependent type. Both these findings further emphasise the prioritization of economic profitability in disregard for the potential sociality ensuing migration, long since an exploitative cornerstone of migration policy.  The question remains, considering the algorithm is a perpetuation of exclusionary dynamics of the nation-state beyond a reiteration of biases in data, what a fair and realistic deployment of algorithms at borders would look like. In other words an algorithm which genuinely addresses contemporary socio-economic tensions, to political and real world effect.
+ 
+ 
+<h2>Bibliography</h2>
  
 Amoore, L., 2006. Biometric borders: Governing mobilities in the war on terror. Political Geography 25, 336–351. https://doi.org/10.1016/j.polgeo.2006.02.001
 
