@@ -61,7 +61,7 @@
  
  <h4>2) Analysis of visa issue rate per visa type</h4>
  
-<p align="justify">This analysis shows that the visa types issuance rate that lower the most are <strong>the EEA family permit, the Family, the visitors, the high value and the other study</strong>. The <strong>EEA family permit</strong> allows non-EEA citizens to enter into the UK on the basis of their relationship with an EEA citizen. <strong>Family visas</strong> allow people to apply upon their family connection with an individual who is either a UK citizen or has just been granted a visa. <strong>Visitor visas</strong> allow successful applicants to stay in the UK for a temporary period of less than six months. The <strong>High Value visas</strong> are designed for highly skilled workers who (among other restrictive requirements) have an annual salary higher than £25,000 (which is the basic requirement for being considered under the Skilled Worker category).</p>
+<p align="justify">This analysis shows that the visa types issue rates that lower the most are Visa Types that can be mostly associated with vulnerable and aid-related conditions, such as the EEA family permit, the Family and the visitors. Further information on the details and definitions of Visa Types can be found in the Appendix.</p>
  
 <img width="607" alt="github 6" src="https://user-images.githubusercontent.com/92430113/145985226-ff8e274c-476f-4bfb-ab1c-b9cd8f7f52ce.png">
  
@@ -93,6 +93,12 @@
 <p align="justify">It is therefore evident from our analysis that <strong>the algorithm deployed by the UK Home office perpetuated existent racist dynamics further</strong>. More concretely, nationality played a role in informing the risk scores used to classify applicants. Our analysis shows that as a result, the UK Visa Issuing Algorithm negatively affected North African applicants more than other applicants. Indeed, North African visa applicants were disproportionately rejected before 2015. However, this increased with the introduction of the algorithm which furthered this effect, potentially both in form or through the presence of <strong>an internal feedback loop</strong>. Nevertheless, contrary to what was initially alleged, <strong>the bias did not seem to discriminate against Sub-Saharan African applicants</strong>.</p>
 
 <p align="justify">Probing further, <strong>the Visa Types that were most affected</strong> by a decrease of the Visa Issue Rate in North Africa before and after 2015 were <strong>those linked to a higher level of vulnerability and need of [humanitarian] assistance</strong>, whilst a tendency that was more broadly identifiable. Moreover, the Applicant Type that was most affected by a decrease of the Visa Issue Rate in North Africa before and after 2015 was the Dependent type. Both these findings further emphasise <strong>the prioritization of economic profitability</strong> in disregard for the potential sociality ensuing migration, long since an exploitative cornerstone of migration policy.  The question remains, considering the algorithm is a perpetuation of exclusionary dynamics of the nation-state beyond a reiteration of biases in data, what a fair and realistic deployment of algorithms at borders would look like. In other words an algorithm which genuinely addresses contemporary socio-economic tensions, to political and real world effect.</p>
+ 
+<h2>Appendix</h2>
+ 
+<h3>Visa types</h3>
+ 
+<h3>Data cleaning and manipulation</h3>
  
 <h2>Bibliography</h2>
  
